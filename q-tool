@@ -11,7 +11,7 @@ wait(0.2)
 local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
 local Notify = AkaliNotif.Notify;
 Notify({
-Description = "backup#6002 .gg/productions";
+Description = "backupalt#3386 .gg/productions";
 Title = "backup#6002 .gg/productions";
 Duration = 5;
 });
